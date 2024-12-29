@@ -81,7 +81,6 @@ Key Functions:
 
 ## 8. Screenshot
 
-User output example screenshot:
 ![Screenshot1](./Images/Screenshot%231.png)
 ![Screenshot2](./Images/Screenshot%232.png)
 ![Screenshot3](./Images/Screenshot%233.png)
