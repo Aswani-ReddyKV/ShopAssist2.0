@@ -17,7 +17,7 @@ import pandas as pd
 import json
 import os
 
-os.chdir(r'D:\Aswani\ForStudy\IIITB\Online_Offline_Class\Course#6GenAI\ShopAssist AI Project\ShopAssit-2.0-Project\ReferenceProject')
+#Give the path or set environment variable to get the Secret keys
 openai.api_key=open("OpenAI_API_Key.txt",'r').read().strip()
 
 app = Flask(__name__)
